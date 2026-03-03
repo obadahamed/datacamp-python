@@ -1,58 +1,29 @@
-📌 Introduction to Web APIs in Python — Writeup
-🧠 Overview
-هذا الريبو يحتوي على ملخص وتطبيق عملي للمفاهيم التي تعلمتها من كورس
-“Introduction to Web APIs in Python” على DataCamp.
-الكورس يعرّف كيفية استخدام Python للتواصل مع خدمات الويب عبر إرسال طلبات HTTP واستقبال البيانات بصيغة JSON وتحليلها.
+# 🐍 DataCamp Python — Notes & Projects
 
-🎯 What I Learned
-✔️ 1. Understanding HTTP Requests
-تعلمت كيفية إرسال طلبات HTTP باستخدام مكتبة requests، مثل:
+![Platform](https://img.shields.io/badge/Platform-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
-GET لجلب البيانات
+> Notes and code from Python courses completed on DataCamp.  
+> Focused on skills directly applicable to cybersecurity: API interaction, automation, and data handling.
 
-POST لإرسال البيانات
+---
 
-PUT للتعديل
+## 📚 Courses
 
-DELETE للحذف
+| Course | Key Skills | Status |
+|--------|-----------|--------|
+| [🌐 Introduction to Web APIs](./Introduction%20to%20Web%20APIs%20/) | HTTP requests, JSON, REST APIs | ✅ Done |
 
-✔️ 2. Working with API Endpoints
-كيفية الوصول إلى API عبر روابط محددة
+---
 
-استخدام query parameters للتحكم بالنتائج
+## 🎯 Why Python for Cybersecurity?
 
-إضافة headers مثل مفاتيح الـ API أو نوع المحتوى
+Python is essential for security automation — from writing custom recon tools to parsing logs and interacting with APIs. These courses build the scripting foundation needed for real security work.
 
-✔️ 3. JSON Handling
-قراءة الردود باستخدام response.json()
+---
 
-استخراج البيانات من JSON وتحويلها إلى متغيرات Python
+## 📫 Connect
 
-التعامل مع القوائم والقواميس داخل JSON
-
-✔️ 4. Status Codes
-فهمت أهم أكواد HTTP مثل:
-
-200 OK
-
-404 Not Found
-
-401 Unauthorized
-
-500 Server Error
-
-✔️ 5. Error Handling
-التحقق من نجاح الطلب قبل معالجة البيانات
-
-التعامل مع الأخطاء المحتملة أثناء الاتصال بالـ API
-
-🛠️ Practical Skills Gained
-إرسال طلبات HTTP باستخدام Python
-
-تحليل بيانات JSON
-
-التعامل مع APIs حقيقية مثل GitHub API
-
-استخدام params و headers
-
-بناء سكربتات بسيطة تتفاعل مع الإنترنت برمجياً
+[![GitHub](https://img.shields.io/badge/GitHub-obadahamed-181717?style=flat-square&logo=github)](https://github.com/obadahamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-obadahamed-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/obadahamed)
