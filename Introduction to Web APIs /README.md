@@ -13,7 +13,7 @@
 
 | Course | Key Skills | Status |
 |--------|-----------|--------|
-| [🌐 Introduction to Web APIs](./Introduction%20to%20Web%20APIs%20/) | HTTP requests, JSON, REST APIs | ✅ Done |
+| [🌐 Introduction to Web APIs](./Introduction%20to%20Web%20APIs.md/) | HTTP requests, JSON, REST APIs | ✅ Done |
 
 ---
 
